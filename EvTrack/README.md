@@ -28,17 +28,15 @@ Yi Chang
 
 ## 分工 (2026-05-04)
 
-programmer 1 ViPT: CYJ
-programmer 2 SDSTrack: @kriss-spy
-researcher 1: @melioll
-researcher 2: JTY
-researcher 3: @zhangrongxuan
+- programmer 1 ViPT: CYJ
+- programmer 2 SDSTrack: @kriss-spy
+- researcher 1: @melioll
+- researcher 3: @zhangrongxuan
+- researcher 2: JTY
 
 ## 时间表
 
 见[指导书 三、课程具体步骤与时间安排](../《模式识别》课程设计指导书（2026）修订版1.pdf)
-
-时间安排及方式(每5人一组)
 
 1. 课程设计任务书的布置,讲解(0.5天)
 2. 学生根据任务书的要求初步进行需求分析(第10周)
